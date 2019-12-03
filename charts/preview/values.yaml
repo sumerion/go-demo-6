@@ -23,9 +23,3 @@ preview:
   probePath: /demo/hello?health=true
 
 
-db:
-  enabled: false
-
-preview-db:
-  persistence:
-    enabled: false
